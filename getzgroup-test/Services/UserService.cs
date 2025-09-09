@@ -76,7 +76,7 @@ namespace getzgroup_test.Services
             return ToDto(existingUser);
         }
 
-        private static string HashPassword(string password)
+        public static string HashPassword(string password)
         {
             using var sha256 = SHA256.Create();
             var hash = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("getzgroup-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e72af92441c6f68127242d9981b48abc152661dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b57c692f2a7504830a9c97a9fbe69f765c9c620")]
 [assembly: System.Reflection.AssemblyProductAttribute("getzgroup-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("getzgroup-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

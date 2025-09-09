@@ -1,5 +1,4 @@
 ﻿using getzgroup_test.DTOs;
-using System.Threading.Tasks;
 
 namespace getzgroup_test.Services
 {

@@ -1,7 +1,6 @@
 ﻿using getzgroup_test.DTOs;
 using getzgroup_test.Repositories;
 using System.Text;
-using System.Text.Json;
 using System.Security.Cryptography;
 
 namespace getzgroup_test.Services
